@@ -1,0 +1,33 @@
+_repo: Fasting-Girls--Their-Physiology-and-Pathology_25601
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hammond, William A. (William Alexander)
+    aliases:
+    - Hammond, William Alexander
+    - Hammond, W. A. (William Alexander)
+    birthdate: 1828
+    deathdate: 1900
+    gutenberg_agent_id: '31448'
+    url: http://www.gutenberg.org/2009/agents/31448
+    wikipedia: http://en.wikipedia.org/wiki/William_Alexander_Hammond
+description: ''
+gutenberg_issued: '2008-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Fasting'
+- !lcsh 'Medicine -- Case studies -- 1800-1900'
+- !lcsh 'Psychology, Pathological'
+- !lcsh 'Anorexia in children'
+title: 'Fasting Girls: Their Physiology and Pathology'
+url: http://www.gutenberg.org/ebooks/25601
